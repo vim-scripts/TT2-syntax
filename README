@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=830
+
+* THIS SCRIPT WILL BE NO LONGER MAINTAINED *
+Maintainer was handed over. Please visit below to find updated version.
+http://github.com/petdance/vim-perl
+
+Syntax Highlight for Template-Toolkit 2.x
+( http://search.cpan.org/~abw/Template-Toolkit/ )
+ Contain Perl code in PERL/RAWPERL directive. (runtime sytax/perl.vim)
+ No fold.
+ HTML syntax for including TT2 syntax. ( tt2html.vim / unfinished )
+ Can define START_TAG/END_TAG for your style.
+
